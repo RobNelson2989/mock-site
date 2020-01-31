@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@mock.site:
+  ssh: vagrant:mock.site:/var/www/html
